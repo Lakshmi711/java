@@ -12,9 +12,18 @@ The goal is to help beginners learn Java syntax and logic through practical exam
 ## Programs Included
 - **Factorial.java** – Calculates the factorial of a given number.
 - **NthPrime.java** – Finds the Nth prime number.
-- **EvenOddCheck.java** – Checks if a number is even or odd.
-- **Fibonacci.java** – Generates the Fibonacci sequence.
+- **EvenCountFromFiveNumbers.java** – Given 5 numbers, counts how many are even.
+- **ReturnLastDigit.java** – Returns the last digit of the given number.
 - **SumOfLastDigits.java** – Finds the sum of last digits of two given numbers.
+- **EvenCheck.java** – Checks if a given number is even.
+- **ExactMultipleOfM.java** – Checks if a number is an exact multiple of a given M.
+- **IsPrime.java** – Determines if a number is prime.
+- **NthFibonacci.java** – Generates the Nth Fibonacci number.
+- **OddCheck.java** – Checks if a given number is odd.
+- **EvenOddCountFromFiveNumbers.java** – Given 5 numbers, counts how many are even and how many are odd.
+- **OddCountFromFiveNumbers.java** – Given 5 numbers, counts how many are odd.
+- **ReturnSecondLastDigit.java** – Returns the second last digit of the given number.
+
 ## How to Run
 1. Clone this repository:
    ```bash
